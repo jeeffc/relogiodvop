@@ -1,0 +1,12 @@
+{
+  "name": "relogio",
+  "version": "1.0.0",
+  "description": "Projeto com testes unitários e GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
